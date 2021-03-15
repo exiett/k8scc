@@ -4,7 +4,7 @@ How to install K8S, set up your cluster and do basic `kubectl` operations in it.
 # Installing:
 https://kubernetes.io/docs/tasks/tools/
 
-# Configuring certificate, cleint and private key:
+# Configuring certificate, client and private key:
 ```
 mkdir -p ~/.kube
 ```
